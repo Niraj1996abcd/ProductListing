@@ -1,0 +1,15 @@
+.chartWrapper {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin: 2rem auto;
+  padding: 1rem;
+  max-width: 1200px;
+}
+
+.chartBlock {
+  flex: 1 1 45%;
+  min-width: 300px;
+  height: 400px;
+}
