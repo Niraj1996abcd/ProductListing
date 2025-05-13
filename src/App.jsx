@@ -37,7 +37,7 @@ const App = () => {
   });
   return (
     <div>
-      <h1 style={{ textAlign: "center" }}>Product Listing By Chart</h1>
+      <h1 style={{ textAlign: "center" }}>Product Listing With Charts</h1>
       <Filters
         filters={filters}
         setFilters={setFilters}
